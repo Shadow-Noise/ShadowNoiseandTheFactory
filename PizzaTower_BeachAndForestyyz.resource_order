@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"medieval_5","order":1,"path":"rooms/medieval_5/medieval_5.yy",},
+    {"name":"ShadowNoise1","order":1,"path":"sprites/ShadowNoise1/ShadowNoise1.yy",},
+    {"name":"TileSet63","order":1,"path":"tilesets/TileSet63/TileSet63.yy",},
+    {"name":"ShadowNoise5","order":5,"path":"sprites/ShadowNoise5/ShadowNoise5.yy",},
+    {"name":"hub_secret1","order":2,"path":"rooms/hub_secret1/hub_secret1.yy",},
+    {"name":"ShadowNoise2","order":2,"path":"sprites/ShadowNoise2/ShadowNoise2.yy",},
+    {"name":"ShadowNoise3","order":3,"path":"sprites/ShadowNoise3/ShadowNoise3.yy",},
+    {"name":"graveyard_2shrunk","order":3,"path":"rooms/graveyard_2shrunk/graveyard_2shrunk.yy",},
+    {"name":"ShadowNoise4","order":4,"path":"sprites/ShadowNoise4/ShadowNoise4.yy",},
+  ],
+}
